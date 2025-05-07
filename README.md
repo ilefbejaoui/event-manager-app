@@ -10,5 +10,6 @@ CREATE TABLE events (
     date DATE,
     time TIME
 );
+technology used : Java, Swing (GUI), JDBC, MySQL, NetBeans/Eclipse (IDE)
 
 ![event](https://github.com/user-attachments/assets/82761e66-e6b6-4940-a37e-d1b04ae67df4)
